@@ -2,7 +2,7 @@
 
 ### O Que aprendi com esse Projeto:
 
-##### propriedade dat-key 
+#### Propriedade data-key 
 adiciona uma variavel no elemento HTML
 
 #### Classlist.toggle
@@ -14,6 +14,6 @@ diferente do "add", ela adiciona classe ao elemento quando esta esta sem e retir
 #### Pseudoelementos
 Simula uma div antes (::before) ou depois (::after) 
 
-####Ferramentas
+#### Ferramentas
 CSS Gradient Generator
 Just Color Picker
