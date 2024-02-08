@@ -1,6 +1,6 @@
 ## Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
 
-#### O Que aprendi com esse Projeto:
+### O Que aprendi com esse Projeto:
 
 ##### propriedade dat-key 
 adiciona uma variavel no elemento HTML
