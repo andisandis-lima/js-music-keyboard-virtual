@@ -6,7 +6,7 @@
 adiciona uma variavel no elemento HTML
 
 #### Classlist.toggle
-diferente do "add", ela adiciona classe ao elemento quando esta esta sem e retira quando já tem
+diferente do "add", ela adiciona classe ao elemento quando está sem e retira quando já tem
 
 #### Position Relative e Absolute
 "Os filhos são absolutos ao seus pais"
@@ -15,5 +15,5 @@ diferente do "add", ela adiciona classe ao elemento quando esta esta sem e retir
 Simula uma div antes (::before) ou depois (::after) 
 
 #### Ferramentas
-CSS Gradient Generator
+CSS Gradient Generator, 
 Just Color Picker
